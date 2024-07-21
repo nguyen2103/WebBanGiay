@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|c:\\users\\admin\\downloads\\webbangiay_final\\webbangiay\\webbangiay\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\views\\home\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|c:\\users\\admin\\downloads\\webbangiay_final\\webbangiay\\webbangiay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|c:\\users\\admin\\downloads\\webbangiay_final\\webbangiay\\webbangiay\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|c:\\users\\admin\\downloads\\webbangiay_final\\webbangiay\\webbangiay\\views\\home\\hotro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\views\\home\\hotro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|c:\\users\\admin\\downloads\\webbangiay_final\\webbangiay\\webbangiay\\views\\home\\doitra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\views\\home\\doitra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\areas\\admin\\views\\account\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\areas\\admin\\views\\account\\orderlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\areas\\admin\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\areas\\admin\\views\\account\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\webbangiay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6A73982-F779-45B8-B020-AA918BBEA9C5}|WebBanGiay\\WebBanGiay.csproj|solutionrelative:webbangiay\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LienHe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\LienHe.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Views\\Home\\LienHe.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\LienHe.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Views\\Home\\LienHe.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:15:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoTro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\HoTro.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Views\\Home\\HoTro.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\HoTro.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Views\\Home\\HoTro.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:15:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoiTra.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\DoiTra.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Views\\Home\\DoiTra.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\DoiTra.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Views\\Home\\DoiTra.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:15:02.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Shared\\_footer.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Views\\Shared\\_footer.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Shared\\_footer.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Views\\Shared\\_footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T19:13:45.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T19:08:51.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebBanGiay\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebBanGiay\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-19T19:06:26.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\appsettings.json",
+              "RelativeDocumentMoniker": "WebBanGiay\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\appsettings.json",
+              "RelativeToolTip": "WebBanGiay\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T18:46:23.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderList.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderList.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderList.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T04:10:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderDetails.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderDetails.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Areas\\Admin\\Views\\Account\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T04:10:16.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebBanGiay\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebBanGiay\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwLcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T04:09:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanGiay\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanGiay\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T03:53:28.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanGiay\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\WebBanGiay_Final\\WebBanGiay\\WebBanGiay\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanGiay\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T03:53:20.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
